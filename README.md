@@ -5,3 +5,4 @@ java em conjunto com o uso de orientação a objetos.
 
 ## Recursos conhecidos:
 
+Herança, Polimorfismo, e Encapsulamento.
